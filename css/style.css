@@ -1,0 +1,92 @@
+.header {
+  background: rgb(158, 22, 22);
+  height: 100px;
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
+.main_content {
+  background: rgb(29, 128, 59);
+  height: 1000px;
+  overflow: hidden;
+}
+.left_side {
+  height: 1000px;
+  width: 30%;
+  float: left;
+}
+.news1 {
+  background: rgb(2, 255, 149);
+  height: 200px;
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
+.news2 {
+  background: rgb(98, 228, 58);
+  height: 200px;
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
+.news3 {
+  background: rgb(212, 221, 93);
+  height: 200px;
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
+.news4 {
+  background: rgb(255, 95, 2);
+  height: 200px;
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
+.news5 {
+  background: rgb(27, 24, 26);
+  height: 200px;
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
+.right_side {
+  height: 1000px;
+  width: 70%;
+  float: left;
+}
+.article1 {
+  background: rgb(103, 180, 141);
+  height: 250px;
+  color: white;
+  font-size: 40px;
+  text-align: center;
+}
+.article2 {
+  background: rgb(22, 3, 66);
+  height: 250px;
+  color: white;
+  font-size: 40px;
+  text-align: center;
+}
+.article3 {
+  background: rgb(216, 214, 139);
+  height: 250px;
+  color: white;
+  font-size: 40px;
+  text-align: center;
+}
+.article4 {
+  background: rgb(195, 74, 104);
+  height: 250px;
+  color: white;
+  font-size: 40px;
+  text-align: center;
+}
+.footer {
+  background: rgb(180, 49, 169);
+  height: 90px;
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
